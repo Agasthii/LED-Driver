@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: LED_Driver.PcbDoc   5/1/2023  7:55:02 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : LED_Driver.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.8mm (31mil)                                             Round             8         PTH        189.05mm (7.44inch)
+T2      0.9mm (35mil)                                             Round             12        PTH        257.86mm (10.15inch)
+T3      1mm (39mil)                                               Round             12        PTH        301.67mm (11.88inch)
+T4      1.05mm (41mil)                                            Round             2         PTH        19.95mm (0.79inch)
+T5      1.06mm (42mil)                                            Round             6         PTH        85.68mm (3.37inch)
+T6      1.1mm (43mil)                                             Round             7         PTH        93.24mm (3.67inch)
+T7      1.3mm (51mil)                                             Round             4         PTH        24.60mm (0.97inch)
+T8      3.5mm (138mil)                                            Round             4         PTH        273.68mm (10.77inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              55
+
+Total Processing Time (hh:mm:ss) : 00:00:00
