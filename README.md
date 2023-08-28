@@ -8,7 +8,7 @@ The Universal LED driver is a project done in our 4th semester as DIY project. I
   <img  src="LED_Driver.png">
 </p>
 
-It consists of two major circuits;
+### It consists of two major circuits;
 - AC-DC converter with regulated DC voltage output
 - Constant current source
 
