@@ -5,7 +5,7 @@ The Universal LED driver is a project done in our 4th semester as DIY project. I
 
 
 <p align="center">
-  <img height="500" src="LED_Driver.png">
+  <img  src="LED_Driver.png">
 </p>
 
 It consists of two major circuits;
