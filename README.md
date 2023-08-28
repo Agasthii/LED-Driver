@@ -3,10 +3,10 @@
 
 The Universal LED driver is a project done in our 4th semester as DIY project. It mainly focuses on creating a LED driver which can be operated in three different watt ranges.
 
-<p align="center">
-  ![LED Driver](LED_Driver.png)
-</p>
 
+<p align="center">
+  <img width="460" height="300" src=LED_Driver.png>
+</p>
 
 It consists of two major circuits;
 - AC-DC converter with regulated DC voltage output
